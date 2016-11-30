@@ -32,7 +32,7 @@ import io.agora.rtc.video.VideoCanvas;
  */
 public class ChannelActivity extends BaseEngineEventHandlerActivity {
 
-
+//1233453567567
 
     private SurfaceView mLocalView;
     private String vendorKey = "";
